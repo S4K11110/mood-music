@@ -20,7 +20,7 @@ SONA 是一個以音樂探索與社群連結為核心的 Spotify 重新設計概
 - 專案類型：RWD Web / App 重新設計
 - 課程：互動前端與體驗設計
 - 設計工具：Figma
-- AI 協作：Chat GPT，Claude
+- AI 協作：Chat GPT，Claude，figma內的AI
 - 版本：v1
 
 
