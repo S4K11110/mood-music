@@ -5,7 +5,7 @@
 - 專案名稱：SONA — Today, in One Song.
 - 原產品：Spotify
 - 專案類型：RWD Web / App 重新設計
-- AI 工具：Claude
+- AI 工具：Chat GPT, Claude, figma AI
 - 設計工具：Figma
 - Figma：［[Figma URL](https://www.figma.com/design/vtpn8FXGp3j4qGCu8Y9bef/RWD_%E5%8C%BF%E5%90%8D%E4%BB%A3%E7%A2%BC_%E5%B0%88%E6%A1%88%E5%90%8D?node-id=1-6&t=PULK53HOuZICqpKt-1)］
 - GitHub：［[GitHub URL](https://github.com/S4K11110/mood-music)］
@@ -228,19 +228,19 @@ AI 協助製作 Figma 時，採用以下流程：
 
 ### Figma
 
-［Figma URL］
+［[Figma URL](https://www.figma.com/design/vtpn8FXGp3j4qGCu8Y9bef/RWD_%E5%8C%BF%E5%90%8D%E4%BB%A3%E7%A2%BC_%E5%B0%88%E6%A1%88%E5%90%8D?node-id=1-6&t=PULK53HOuZICqpKt-1)］
 
 ### GitHub
 
-［GitHub URL］
+［[GitHub URL](https://github.com/S4K11110/mood-music)］
 
 ### AI 討論紀錄
 
-［AI 討論串 URL］
+figma AI［[AI 討論串 URL](https://www.figma.com/design/vtpn8FXGp3j4qGCu8Y9bef/RWD_%E5%8C%BF%E5%90%8D%E4%BB%A3%E7%A2%BC_%E5%B0%88%E6%A1%88%E5%90%8D?m=auto&agent-thread=7c491033-9cd2-4790-b689-d2d641e32f5b)］
 
-### Pitch
+Chat GPT[AI 討論串 URL］
 
-［YouTube 不公開 URL］
+
 
 ---
 
