@@ -236,7 +236,7 @@ AI 協助製作 Figma 時，採用以下流程：
 
 ### AI 討論紀錄
 
-figma AI［[AI 討論串 URL](https://www.figma.com/design/vtpn8FXGp3j4qGCu8Y9bef/RWD_%E5%8C%BF%E5%90%8D%E4%BB%A3%E7%A2%BC_%E5%B0%88%E6%A1%88%E5%90%8D?m=auto&agent-thread=7c491033-9cd2-4790-b689-d2d641e32f5b)］
+figma AI[[AI 討論串 URL](https://www.figma.com/design/vtpn8FXGp3j4qGCu8Y9bef/RWD_%E5%8C%BF%E5%90%8D%E4%BB%A3%E7%A2%BC_%E5%B0%88%E6%A1%88%E5%90%8D?m=auto&agent-thread=7c491033-9cd2-4790-b689-d2d641e32f5b)]
 
 Chat GPT[AI 討論串 URL］
 
