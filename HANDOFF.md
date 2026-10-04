@@ -7,9 +7,9 @@
 - 專案類型：RWD Web / App 重新設計
 - AI 工具：Claude
 - 設計工具：Figma
-- Figma：［Figma URL］
+- Figma：［[Figma URL](https://www.figma.com/design/vtpn8FXGp3j4qGCu8Y9bef/RWD_%E5%8C%BF%E5%90%8D%E4%BB%A3%E7%A2%BC_%E5%B0%88%E6%A1%88%E5%90%8D?node-id=1-6&t=PULK53HOuZICqpKt-1)］
 - GitHub：［GitHub URL］
-- 最後更新：［YYYY-MM-DD］
+- 最後更新：［2026-10-05］
 
 ---
 
